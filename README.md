@@ -24,15 +24,15 @@ The goal is to build a **user-friendly, scalable, and accurate** application tha
 
 ### Frontend
 - **HTML5**, **CSS3**, **JavaScript**
-- Optionally integrated with  modern UI libraries
+
 
 ### Backend
-- **Python** (Flask or Django)
+- **Python** (Flask)
 - **TensorFlow / Keras / PyTorch** – for model training
 - **scikit-learn, pandas, NumPy** – for data handling
 
 ### Database
-- **MySQL / MongoDB** – to store job posts, results, and user sessions
+- **MySQL** – to store job posts, results, and user sessions
 
 ### ML / DL Tools
 - **NLP**: Tokenization, text classification, BERT (optional)
