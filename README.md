@@ -48,7 +48,5 @@ The goal is to build a **user-friendly, scalable, and accurate** application tha
 - **Database Layer**: Stores user/job post data and system logs
 - **Admin Module**: Enables management of posts and monitoring fraud trends
 
----
 
-## 📂 Directory Structure
 
